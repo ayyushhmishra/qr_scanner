@@ -14,8 +14,8 @@ This Flutter app allows users to scan QR codes. It features a simple and intuiti
 
 ## Screenshots
 
-![Home Screen](assets/screenshot1.png)
-![QR Scanner](assets/screenshot2.png)
+![Home Screen](assets/qr%20screen%20rec.mp4)
+![QR Scanner](assets/qr%20screenshot.jpg)
 
 ## Installation
 
